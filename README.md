@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krish28na
 - 👀 I’m interested in learning new things like coding and am also into fitness.
    i would love to meet new people and learn things from them.
-- 🌱 I’m currently learning java.
+- 🌱 I’m done learning HTML and CSS and going to start JavaScript.
 - 💞️ I’m looking forward to guide me on my journey so i can learn very effectively.
 - 📫 you can reach me via my email: krishna63860sharma@gmail.com
 
